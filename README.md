@@ -1,4 +1,4 @@
-# REEJ CLONE
+# REEL CLONE
 
 Developed a social media platform clone using React.js for the front-end.
 Leveraged Firebase for backend services, including user authentication, database management, and cloud storage.
