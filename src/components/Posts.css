@@ -1,0 +1,59 @@
+.video-container{
+     height: 80vh;
+     border-radius: 20px;
+     background-color: white;
+     overflow: scroll;
+     scroll-snap-type: y mandatory;
+     scrollbar-width: none;
+}
+
+.video-container::-webkit-scrollbar{
+    display: none;
+}
+.videos{
+    position: relative;
+}
+
+.avatar{
+    position: absolute;
+    bottom: 8%;
+    left: 5%;
+}
+.avatar h4{
+    color: black;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.icon-like {
+    position: absolute;
+    bottom: 18%;
+    right: 5%;
+} 
+.like{
+    cursor: pointer;
+    color: red;
+}
+.unlike{
+    cursor: pointer;
+    color: black;
+}
+
+.comment-icon{
+    position: absolute;
+    bottom: 10%;
+    right: 5%;
+}
+
+.comment-section{
+    width: 100%;
+    height: 100%;
+}
+.like-icon h4{
+    position: absolute;
+    bottom: 11%;
+    right: 6%;
+}
+
+.card1{
+    height: 60vh;
+}

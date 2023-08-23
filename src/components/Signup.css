@@ -1,0 +1,16 @@
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.title {
+    text-align: center;
+}
+.last{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1.7vh;
+}
